@@ -28,10 +28,6 @@ A modern, responsive currency exchange application built with React and styled w
 - Vite
 - Currency Exchange API
 
-## 📱 Screenshots
-
-[Add your app screenshots here]
-
 ## 🔄 How to Use
 
 1. Select your base currency
